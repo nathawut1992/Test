@@ -1,0 +1,1 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="api_UptadeWeaponSkins.aspx.cs" Inherits="api_UptadeWeaponSkins" %>

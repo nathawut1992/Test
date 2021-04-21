@@ -11,9 +11,9 @@ using System.Configuration;
 /// </summary>
 public class SQLBase
 {
-    string server = "127.0.0.1, 1111";
-    string user = "sa";
-    string pass = "password";
+    string server = "";
+    string user = "";
+    string pass = "";
     string workdb = "WarZ";
 
     SqlConnection conn_ = null;
@@ -23,7 +23,7 @@ public class SQLBase
         //server = "202.162.78.185,11433";
         server = "127.0.0.1, 1111";
         user = "sa";
-        pass = "password";
+        pass = "1hG8z^98f4OpP94";
     }
 
     ~SQLBase()

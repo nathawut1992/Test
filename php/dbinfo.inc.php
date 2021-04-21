@@ -2,11 +2,11 @@
 	function db_connect()
 	{
 		$db_user   = "sa";
-		$db_pass   = "password";
+		$db_pass   = "1hG8z^98f4OpP94";
 		$db_dbname = "WarZ";
 
 		//$db_serverName     = "202.162.78.185,11433"; 
-    $db_serverName     = "127.0.0.1, 1111";
+    $db_serverName     = "localhost, 1111";
 		$db_connectionInfo = array(
 			"UID" => $db_user,
 			"PWD" => $db_pass,
